@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://masukalhussain:QerSf0x628XEYiQ3@projectmanagement.rfsi6nk.mongodb.net/?retryWrites=true&w=majority&appName=projectmanagement",
+    "jwtSecret": "21533f8fb2a86b0b17d26b196ff6d73e990b286fdda95ba1e3b43bbef7d5b017253faea03bb388005dc5326c0b508fc753dd542b8c21263d38953e86d57454be"
+}
